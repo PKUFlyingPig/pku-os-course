@@ -51,6 +51,7 @@ defaults:
       type: modules
     values:
       layout: module
+      slidespath: 'assets/slides/'
   - scope:
       path: ''
       type: schedules

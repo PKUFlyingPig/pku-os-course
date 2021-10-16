@@ -1,10 +1,10 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
 Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+: **PDF**{: .label .label-blue}[Introduction to OS](/assets/slides/test.pdf)
+  : **Read**{: .label .label-green}[1.1](#)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)

@@ -1,5 +1,10 @@
 # Operating System Honor Track 
 This repo contains the source code of the website for the Operating System Course at Peking University.
+## TODO
+- course information : introduction, policy, grading
+- textbook
+- lab/hw
+- exam
 ## Structure
 **files marked as TODO are to be changed as course goes**
 ### Contents
