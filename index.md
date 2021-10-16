@@ -9,7 +9,7 @@ seo:
 
 # {{ site.tagline }}
 {: .mb-2 }
-{{ site.description }}
+2022 Spring, taught by [Xin Jin](https://xinjin.github.io/index.html)
 {: .fs-6 .fw-300 }
 
 {% if site.announcements %}
