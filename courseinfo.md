@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CourseInfo
+nav_order: 1
 description: >-
     Course policies and information.
 ---
