@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Operating System
 tagline: Operating System Honor Track
-author: Kevin Lin
+author: Yinmin Zhong
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -27,10 +27,9 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  PKU OS Course on GitHub:
+    - 'https://github.com/PKUFlyingPig/pku-os-course'
+aux_links_new_tab: true # Makes Aux links open in a new tab. Default is false
 footer_content:
 
 # Collections for website data
