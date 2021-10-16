@@ -4,7 +4,6 @@ week: 1
 date: 2022-2-11
 ---
 
-1. Read the [Course Info](courseinfo.md) for more details about this course.
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Update `_config.yml` with your course information.
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+1. This website is still under construction.
+1. Read the [Course Info](../courseinfo) for more details about this course.
+1. See the source code for the website on [Github](https://github.com/PKUFlyingPig/pku-os-course)
