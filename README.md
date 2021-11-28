@@ -1,6 +1,7 @@
 # Operating System Honor Track 
-This repo contains the source code of the website for the Operating System Course at Peking University.
-The repo is deprecated, the new repo has been moved to the [official Github Account PKU-OS](https://github.com/PKU-OS/pku-os-course).
+This repo is deprecated, the new repo has been moved to the [official Github Account PKU-OS](https://github.com/PKU-OS/pku-os-course).
+
+You can visit the website on [pkuos.systems](pkuos.systems).
 ## TODO
 - course information : introduction, policy, grading
 - textbook
