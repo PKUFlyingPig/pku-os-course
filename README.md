@@ -1,7 +1,7 @@
 # Operating System Honor Track 
 This repo is deprecated, the new repo has been moved to the [official Github Account PKU-OS](https://github.com/PKU-OS/pku-os-course).
 
-You can visit the website on [pkuos.systems](pkuos.systems).
+You can visit the website on [pkuos.systems](https://pkuos.systems).
 ## TODO
 - course information : introduction, policy, grading
 - textbook
